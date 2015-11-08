@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[cwagnerphotography]]></title>
+        <description><![CDATA[cwagnerphotography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 08 Nov 2015 20:01:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[test]]></title>
+            <description><![CDATA[<article><h1>test</h1><p>Sutro Baths from the Cliff House</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3384119-6301-4853-a372-dfde58e18c16.jpg"></article>]]></description>
+            <link>undefinedtest/index.html</link>
+            <guid isPermaLink="false">9d18057f-451d-42be-91b2-2518fed0213a</guid>
+            <pubDate>Sun, 08 Nov 2015 20:01:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
